@@ -7,5 +7,9 @@
   "license": "ISC",
   "dependencies": {
     "colors": "^1.1.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kostasx/plethora-atlas-contrib-weather"
   }
 }
