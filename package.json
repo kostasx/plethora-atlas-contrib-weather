@@ -1,0 +1,11 @@
+{
+  "name": "plethora-atlas-contrib-weather",
+  "version": "0.1.0",
+  "description": "Weather Utilities for PlethoraAtlas Project",
+  "main": "weather.js",
+  "author": "kostasx <minaidisk@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.1.2"
+  }
+}
